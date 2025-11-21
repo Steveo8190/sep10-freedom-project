@@ -1,4 +1,4 @@
-# Content
+  # Content
 Topic: mechnical engineering 
 
 ## Overview/Introduction/Context
@@ -72,6 +72,26 @@ Topic: mechnical engineering
   * The machine uses a rotating, multi-point cutting tool the mill to chip away material from a solid block , guided by computer programs.
   * The milling process is dictated by G-code (a programming language for CNC machines), which is generated from a CAD model using CAM (Computer-Aided Manufacturing) software like Fusion 360 or Siemens NX.
   * They can machine a wide variety of materials, including metals (aluminum, steel, titanium), plastics, and composites, with high precision and repeatability.
-## Part B: possible future technology
-* Idea
-  * Detail
+## Part B: Possible Future Technology
+* healing mechanical parts 
+    * Mechanical parts that can repair themselves instantly  after sensing damage in any of their parts
+    * It uses nanotechnology to be able to fix itself and also to reinforce the damaged part 
+
+* Auto-changing mechanical arm
+    * An arm that is capable of changing its shape, size, or form to fit the user's needs
+    * It has a mic, so you just describe how you want it to be, and it will change its structure
+      
+* Universal tool
+    * A tool that can be used to change anything, a mechanic's dream gift 
+    * This tool can become a hammer, a wrench, or a screwdriver, and you just need to change a few parts, and boom, a new tool
+
+* An AI hand and eye-coordinated hologram
+    * A hologram that tracks your eyes and hands to give a good image or the idea you're coming up with
+    * Similar to Tony Stark's hologram when he found a new element left by his father
+
+* A double-acting piston 
+    * A piston that had a double purpose, for example, pistons push air one way in an engine, but what if it pushed both ways instead, giving more power to an engine. 
+
+
+
+
