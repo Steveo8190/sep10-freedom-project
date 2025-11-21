@@ -7,6 +7,7 @@ Topic: mechnical engineering
 * Tech in this industry will always grow and improve since every day new problems pop up in need of help and then people with ideas use those i deas to create solutions.
 
 ## Part A: existing technology
+### SOFTWARE
 * Less complex
   
   * Solidworks
@@ -54,10 +55,23 @@ Topic: mechnical engineering
   * Siemens NX
     * NX is a unified platform that  integrates design, simulation, and manufacturing. This allows engineers to transition rapidly from one stage to the product development process to the next without needing to switch between different software applications.
     * It supports robust parametric and direct modeling as well as highly sophisticated freeform surface modeling including Class A surfacing, which is essential for developing complex, aesthetic, and aerodynamic geometries.
-
- 
-    
-
+### HARDWARE
+* Shafts
+  * The primary function is to transmit mechanical power from one part of a machine to another (e.g., from a motor to a gearbox or a wheel). This transmission is handled through torque.
+  * Shafts provide the rigid axis necessary to support rotating elements like gears, pulleys, flywheels, and couplings.
+  * A shaft is designed to withstand a combination of different stresses like torsional stress (due to the torque being transmitted) and bending stress (due to the weight of the components they support and the forces from gears or belts), also axial stress (due to thrust forces or tension).
+* Linkages / Joints
+  * The most common function is converting a simple input motion into a more complex or desired output motion.Linkages are often designed to guide an object or a point on a link along a specific, complex path.
+  * They can be used to multiply or decrease the force or speed transmitted through the system example a lever, which is the simplest form of a linkage.
+  * Linkages are essential in a vast range of machines, from complex robotic arms and engine mechanisms to simple everyday devices like scissors and windshield wipers.
+* Bearings
+  * Bearings replace sliding friction with rolling friction in the case of rolling-element bearings which results in a massive reduction of energy loss and heat generation.
+  * Bearings maintain the precise position and alignment of a rotating shaft relative to its housing, ensuring smooth and accurate operation.
+  * Bearings are indispensable components in everything from electric motors, pumps, and gearboxes to wheels on vehicles and spindles on CNC machines.
+* CNC Milling Machine
+  * The machine uses a rotating, multi-point cutting tool the mill to chip away material from a solid block , guided by computer programs.
+  * The milling process is dictated by G-code (a programming language for CNC machines), which is generated from a CAD model using CAM (Computer-Aided Manufacturing) software like Fusion 360 or Siemens NX.
+  * They can machine a wide variety of materials, including metals (aluminum, steel, titanium), plastics, and composites, with high precision and repeatability.
 ## Part B: possible future technology
 * Idea
   * Detail
