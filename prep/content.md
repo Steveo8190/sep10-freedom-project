@@ -8,13 +8,35 @@ Topic: mechnical engineering
 
 ## Part A: existing technology
 * Less complex
-  * Detail
-  * [image text](image URL)
+  * Solidworks
+    * 
+    * [image text](image URL)
+  * Autodesk Fusion 360
+    * detail
+    * [image text](image URL)
+  * Tinkercad
+    * detail
+    * [image text](image URL)
  * Ok complex
- * 
-  Really complex
-  * 
-  * 
+ * MATLAB
+   * detail
+   * [image text](image URL)
+ * ANSYS Workbench
+   * detail
+   * [image text](image URL)
+ * COMSOL Multiphysics
+   * detail
+   * [image text](image URL)
+ * Complicated
+  * CATIA 
+    * detail
+    * [image text](image URL)
+  * Siemens NX
+    * detail
+    * [image text](image URL)
+  * Abaqus
+    * detail
+    * [image text](image URL)
     
 
 ## Part B: possible future technology
