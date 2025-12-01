@@ -5,9 +5,9 @@ Regarding software and hardware technologies i have found many things like solid
 ## Sources
 For some of my software i have found them [here](https://www.upes.ac.in/blog/advanced-engineering/mechanical-engineering-software) and what make's this reliable well tgat fact that this comes from a university and at the bottom you can find all the credentials. What if you think it's still not good enough well here is another [one](https://www.asme.org/topics-resources/content/where-can-i-find-mechanical-engineering-resources?) which is an orginazation where i learned about engineers sources to find what i need.Now for hardware i did use the second one stated but i also used [this](https://www.homedepot.com/c/ab/must-have-automotive-tools-for-mechanics/9ba683603be9fa5395fab901511e89b3)one, what you saw home depo ha, i also used [this](https://www.ny-engineers.com/blog/6-crucial-tools-every-mechanical-engineer-needs#:~:text=Coordinate%20measuring%20machines%20(CMM),used%20in%20manufacturing%20industries'%20metrology.)here this is backed up by the [ifa](https://www.franchise.org/).
 ## EDP
-the engineering design process is still 
+the engineering design process is now more into the research the problem because common problems in the world are global issues such as climate change and clean water access in poor countries but then there are engineers problems like energy efficiency, managing complex projects, designs with high cost and performance, and ensuring safety and sustainability in proyects but i am more  leaning into more global issues and looking for a way how to help engineers find a way to cure global warming or even just create something for global warming. 
 ## Skills
-i learned how to 
+i learned how to search for things for example relobale resources and i also have had a better time taking notes thanks to all the research i have to do bbut yeah task managing,research,note taking are new and improved skills i am learning and learned. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
