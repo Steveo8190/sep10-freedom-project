@@ -1,7 +1,7 @@
 # Entry 2
 ##### 11/20/2025
 ## Content
-Regarding software and hardware 
+Regarding software and hardware technologies i have found many things like 
 ## Sources
 source
 ## EDP
