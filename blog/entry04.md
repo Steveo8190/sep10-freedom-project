@@ -3,7 +3,11 @@
 
 ### Content
 
-###
+### Sources
+
+### EDP
+
+### Skills
 
 [Previous](entry03.md) | [Next](entry05.md)
 
