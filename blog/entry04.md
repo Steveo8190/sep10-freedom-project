@@ -1,7 +1,9 @@
 # Entry 4
 ##### X/X/XX
 
-Text
+### Content
+
+###
 
 [Previous](entry03.md) | [Next](entry05.md)
 
