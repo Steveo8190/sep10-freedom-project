@@ -20,17 +20,16 @@
   * Helped me see how people use bulma in there work
   * I saw how bulma componets gave the cover background of a website
   * Helped me review stuff i learned like boostrap-grid
-* Saw 10 minutes of the first video of a seris of bulma intro [videos](https://www.youtube.com/playlistlist=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a)
-  *I tried to see if any differneces were made between both videos and also to double check if most of the code accually worked
-  *
 ### 4/16/26:
-* I used [jsbin](...) to try and recreate the code and see how it worked in real time.
+* I used [jsbin](https://jsbin.com/yuwipisici/edit?html,output) to try and recreate the code and see how it worked in real time.
   * Helped me get used to the new things like the ``.is-primary`` code
   * i was able to notice the differnece in the Js boostsrap componets compared to the Bulma as some of the code is made simpler.
   ``.title``--> ``.has-text``
   * i was able to understand this form of css a lot easier.
 ### 4/17/26:
-* Opened a google [docs]() to brainstorm ideas on how to use the Bulma css framework system.
+* Opened a google docs to brainstorm ideas on how to use the Bulma css framework system.
   * helped me brainstorm how i wanted to format my project
-  *
+  *pre-wireframe
+  * figure what code a like and feel confident using
+
 
