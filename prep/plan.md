@@ -13,10 +13,10 @@
 
 #### MVP
 
-* m-t 4/27/ Navbar and overview/ pagination/ maybe carusel 
-* W-4/28 \ Part A software/ Cards 3x3/
-* T-4/29 \ Part A hardware/Accordion 
-* F-4/30 \ Part B/ cards/ collaps
+* m-t 4/27-28/ Navbar and overview/ pagination/ maybe carusel 
+* W-4/29 \ Part A software/ Cards 3x3/
+* T-4/30 \ Part A hardware/Accordion 
+* F-5/1 \ Part B/ cards/ collaps
 
 ---
 
