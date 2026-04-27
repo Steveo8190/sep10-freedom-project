@@ -1,8 +1,7 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Desktop+mobile](https://docs.google.com/document/d/1l0rfbpEJfWiplKYAKPN0FmqwnunBZTmfs4n4iuyCmB0/edit?authuser=0&usp=classroom_web)
 
 ## Colors
 * `#ABC123`
