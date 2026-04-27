@@ -7,8 +7,10 @@
 * `#ABC123`
 
 ## Fonts
-* [Text](URL)
-
+* [Text](https://fonts.google.com/specimen/Playfair+Display?categoryFilters=Feeling:%2FExpressive%2FBusiness)
+* [Text](https://fonts.google.com/specimen/Mozilla+Text?categoryFilters=Feeling:%2FExpressive%2FBusiness&preview.script=Latn)
+* [Text](https://fonts.google.com/specimen/Nabla?categoryFilters=Feeling:%2FExpressive%2FFuturistic&preview.script=Latn)
+* [Text]()
 ## Timeline
 
 #### MVP
