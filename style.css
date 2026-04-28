@@ -1,0 +1,25 @@
+#splash {
+    background:url('https://www.monarch-innovation.com/wp-content/uploads/2024/06/mechanical-engineering-services.jpg') center no-repeat fixed;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    padding: 40px 0;
+   height:400px;
+}
+
+h1 {
+  text-align:center;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 75%;
+}
+
+h2 {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-weight: 300;
+    font-size: 25px;
+}
