@@ -4,8 +4,9 @@
 * [Desktop+mobile](https://docs.google.com/document/d/1l0rfbpEJfWiplKYAKPN0FmqwnunBZTmfs4n4iuyCmB0/edit?authuser=0&usp=classroom_web)
 
 ## Colors
-* `#ABC123`
-
+* `#533dff`
+* `#e7fe3e`
+* `##5C78B7`
 ## Fonts
 * [Text](https://fonts.google.com/specimen/Playfair+Display?categoryFilters=Feeling:%2FExpressive%2FBusiness)
 * [Text](https://fonts.google.com/specimen/Mozilla+Text?categoryFilters=Feeling:%2FExpressive%2FBusiness&preview.script=Latn)
