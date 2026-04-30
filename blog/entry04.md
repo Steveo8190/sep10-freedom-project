@@ -6,9 +6,9 @@ For the tools i choose Bulma which is a free CSS frame work primarly used to mak
 ### Sources
 My main source of information is the very website of [bulma](https://bulma.io/documentation/start/overview/) which has everything you need to know but something more credible and more trusted by people would be free code camp, which is even being used by my teacher, and what i mean is that they made a video about the tool Bulma you can see [here](https://www.youtube.com/watch?v=LBzZLzu2GKo) and in this video you hvae a tutorial on the tool bulma.
 ### EDP
-
+Free points
 ### Skills
-
+Thanks to all of this reasearch i have been doing i can safely say that i have developed and worked my reaseching skill as due to me needing to search how to use bulma all on my own, i belive that i now know where exactly to look and to differ creadible sources from fake one's. In conclusion reaseching is a really good skill as in the future i will most likely need to reasech something eventually so having this fundamental skill as reassuring.
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
