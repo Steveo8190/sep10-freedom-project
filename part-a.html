@@ -1,1 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Part A - Software</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background: #f4f4f4;
+      color: #333;
+    }
+
+   
+    .navbar {
+      display: flex;
+      padding: 15px 30px;
+      background: #e0e0e0;
+    }
+   
+    .header {
+      text-align: center;
+      padding: 60px 20px 40px;
+    }
+
+    .header h1 {
+      margin: 10px 0;
+      font-size: 32px;
+    }
+
+    .header p {
+      max-width: 600px;
+      margin: 10px auto;
+      color: #666;
+      font-size: 14px;
+    }
+
+    
+    .section-title {
+      text-align: center;
+      margin: 40px 0 10px;
+    }
+
+    .section-sub {
+      text-align: center;
+      color: #666;
+      margin-bottom: 30px;
+    }
+
+   
+    .container {
+      max-width: 1100px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 25px;
+      margin-bottom: 40px;
+    }
+
+    .card {
+      background: white;
+      border: 1px solid #ccc;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card img {
+      height: 150px;
+      object-fit: cover;
+    }
+
+    .card-content {
+      padding: 15px;
+      font-size: 14px;
+    }
+
+    .card h4 {
+      margin: 10px 0;
+    }
+
+    .read-more {
+      margin-top: 10px;
+      font-size: 12px;
+      color: #555;
+    }
+
+  
+    .simple-card img {
+      height: 120px;
+    }
+
+    .simple-card {
+      background: white;
+      padding-bottom: 10px;
+    }
+
+    .simple-card .card-body {
+      padding: 10px;
+    }
+
+    
+    .footer {
+      background: #e0e0e0;
+      padding: 20px 30px;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 10px;
+      font-size: 12px;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 15px;
+    }
+
+   
+    img {
+      width: 100%;
+      display: block;
+    }
+
+   
+    @media (max-width: 900px) {
+      .grid {
+        grid-template-columns: 1fr 1fr;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+ 
+   <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav">
+        <a class="nav-link active" aria-current="page" href="#">Software</a>
+          <a class="nav-link" href="#">hardware</a>
+          <a class="nav-link" href="#">part b </a>
+      </div>
+    </div>
+  </div>
+</nav>
+
+ 
+  <div class="header">
+    <h1>PART A</h1>
+    <p>
+      Mechanical engineering software tools are for designing (CAD), simulating (CAE), and manufacturing (CAM) physical components, ranging from 3D modeling to structural analysis. These applications streamline the development process, allowing engineers to test, optimize, and validate designs before production, ultimately improving accuracy and lowering costs
+    </p>
+  </div>
+
+
+  <h2 class="section-title">SOFTWARE</h2>
+  <p class="section-sub">Less Complex</p>
+
+  <div class="container">
+    <div class="grid">
+
+      <div class="col-md-4">
+      <div class="card">
+        <img src="images/blog1.jpg" alt="">
+        <div class="card-body">
+          <small>Simple</small>
+          <h4 class="card-title">Solidworks</h4>
+          <p class="card-text">used for 3d modeling and it allows engineers to create a precise 3d model of parts or their desing allowing for precise mesurments and calculations based on a realistic model
+Also it supports the entire product development process from the initial idea to the design and generating production ready 2D drawings.
+It can even run simulations to test and make sure how the design will perform under real world conditions before a physical prototype is made.
+for credibilaty this is used for aerospace, automotive, medical devices, and consumer goods products.</p>
+          <div class="read-more">Read more</div>
+        </div>
+      </div>
+</div>
+       <div class="col-md-4">
+      <div class="card">
+        <img src="images/blog2.jpg" alt="">
+        <div class="card-body">
+          <small>Simple</small>
+          <h4 class="card-title">Autodesk Fusion 360</h4>
+          <p class="card-text">Its used for 3D Design and Modeling as it offers multiple modeling methods like parametric, direct, surface, mesh which allow for flexible and complex product design.
+It even includes an integrated tools to prepare models for CNC machining also known as milling or turning and it helps manufacturing like 3D printing.
+Users can perform digital simulations to validate how a design will perform under real-world conditions, reducing the need for physical prototypes.
+Also it allows for the co-design of mechanical and electrical components which is beneficial for creating smart products.</p>
+          <div class="read-more">Read more</div>
+        </div>
+      </div>
+</div>
+      <div class="col-md-4">
+      <div class="card">
+        <img src="images/blog3.jpg" alt="">
+        <div class="card-body">
+          <small>Simple</small>
+          <h4 class="card-title">Tinkercad</h4>
+          <p class="card-text">Simplified 3D Modeling as it uses a constructive solid geometry method, allowing users to create complex shapes by adding and subtracting simple shapes like solids and holes.
+3D Printing Ready for Designs that can be easily exported in STL or OBJ formats, which are ready for 3D printing.
+Circuits Simulation a browser-based electronic circuit simulator that supports microcontrollers like the Arduino Uno, allowing users to build and test virtual circuits before creating them in the real world.
+Codeblocks which is for users to create 3D designs and animations using visual programming which is a fantastic way to introduce coding concepts.</p>
+          <div class="read-more">Read more</div>
+        </div>
+      </div>
+
+    </div>
+
+</div>   
+    <h3 class="section-title">OK Complex</h3>
+    <div class="grid">
+ <div class="col-md-4">
+      <div class="simple-card">
+        <img src="images/ok1.jpg">
+        <div class="card-body">
+          <h4 class="card-title">MATLAB</h4>
+          <p class="card-text">Numerical Analysis and Computation is optimized for matrix and array calculations, making it best for solving complex systems of linear equations, data processing, and performing numerical simulations.
+MATLAB can generate high-quality 2D and 3D plots and visualizations, which are essential for understanding simulation results, sensor data, and experimental outcomes.
+System Modeling and Simulation is tightly integrated with Simulink, a block diagram environment for multidomain simulation and Model-Based Design. Engineers use Simulink to model and simulate dynamic systems like control systems, robotic mechanisms, and thermal processes.
+Engineers use it to develop algorithms for control systems, signal processing, and image processing, which are often deployed onto hardware.</p>
+          <div class="read-more">Read more</div>
+        </div>
+      </div>
+</div>
+ <div class="col-md-4">
+      <div class="simple-card">
+        <img src="images/ok2.jpg">
+        <div class="card-body">
+          <h4 class="card-title">ANSYS Workbench</h4>
+          <p class="card-text">Multiphysics Simulation is primary the ability to manage and integrate different analysis types or physics within a single project.
+Workflow Management uses an innovative Project Schematic (a drag-and-drop system) to tie together the entire simulation process, from importing geometry to meshing, applying loads, solving, and reviewing results.
+Design Optimization is an integrated Design Exploration tools allow engineers to perform parametric studies, varying design parameters to systematically optimize the product for specific performance requirements.</p>
+          <div class="read-more">Read more</div>
+        </div>
+      </div>
+</div>
+ <div class="col-md-4">
+      <div class="simple-card">
+        <img src="images/ok3.jpg">
+        <div class="card-body">
+          <h4 class="card-title">COMSOL Multiphysics</h4>
+          <p class="card-text">True Multiphysics Modeling unlike software that focuses on a single domain, COMSOL allows engineers to fully use any number of physics interfaces and solve their Partial Differential Equations (PDEs) together in a single model. This is critical for accurate simulation of real-world devices.
+Equation-Based Approach offers pre-packaged physics interfaces via its extensive module library, like the Structural Mechanics Module, a unique feature is its flexibility to allow users to input user-defined equations and expressions. This grants complete control to the engineer to model highly customized or novel phenomena.
+Comprehensive Workflow provides a unified environment for the entire simulation process, including geometry creation/import, meshing, setting up the physics, solving, and post-processing the results.</p>
+          <div class="read-more">Read more</div>
+        </div>
+      </div>
+
+    </div>
+
+</div>
+    <h3 class="section-title">Complicated</h3>
+    <div class="grid">
+ <div class="col-md-4">
+      <div class="simple-card">
+        <img src="images/c1.jpg">
+        <div class="card-body">
+          <h4 class="card-title">CATIA</h4>
+          <p class="card-text">CATIA is renowned for its high geometric accuracy and its superior capabilities in advanced surfacing, Class A surfacing, which is critical for creating smooth, complex, aesthetic, and aerodynamic shapes like car bodies, and aircraft wing.
+Multi-Discipline Engineering provides a comprehensive set of integrated solutions that go beyond mechanical design to include electrical, fluid, and electronic systems design within the same 3D digital mock-up, facilitating true collaborative engineering.
+</p>
+          <div class="read-more">Read more</div>
+        </div>
+      </div>
+</div>
+ <div class="col-md-4">
+      <div class="simple-card">
+        <img src="images/c2.jpg">
+        <div class="card-body">
+          <h4 class="card-title">Siemens NX</h4>
+          <p class="card-text">NX is a unified platform that integrates design, simulation, and manufacturing. This allows engineers to transition rapidly from one stage to the product development process to the next without needing to switch between different software applications.
+It supports robust parametric and direct modeling as well as highly sophisticated freeform surface modeling including Class A surfacing, which is essential for developing complex, aesthetic, and aerodynamic geometries.</p>
+          <div class="read-more">Read more</div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+  
+  <div class="footer">
+    <div>Logo</div>
+    <div class="footer-links">
+      <span>Link one</span>
+      <span>Link two</span>
+      <span>Link three</span>
+      <span>Link four</span>
+    </div>
+    <div>© 2024 Your Website</div>
+  </div>
+
+</body>
+</html>
